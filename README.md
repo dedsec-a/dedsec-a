@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Backend Focused AI/ML enginner I am a backend-focused Full Stack Developer and Machine Learning Engineer specializing in building scalable systems and real-time intelligent applications.<br><br>My work spans high-accuracy machine learning pipelines, real-time computer vision systems, and System design based backend architectures for orchestrating complex workflows.
+I am a backend-focused Full Stack Developer and Machine Learning Engineer specializing in building scalable systems and real-time intelligent applications.<br><br>My work spans high-accuracy machine learning pipelines, real-time computer vision systems, and System design based backend architectures for orchestrating complex workflows.
 
 
 ## 🌐 Socials:
